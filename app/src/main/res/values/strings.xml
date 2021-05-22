@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">SpotifyUiCompose</string>
+    <string name="home_home">Home</string>
+    <string name="home_search">Search</string>
+    <string name="home_library">Library</string>
+
+    <string name="empty_subtitle"> </string>
+
+    <string name="recently_played_title">Recently played</string>
+
+    <string name="made_for_you_title">Made for you</string>
+    <string name="made_for_you_subtitle">Get better recommendations the more you listen</string>
+
+    <string name="uniquely_yours_title">Uniquely yours</string>
+
+
+
+    <string name="more_of_what_you_like_title">More of what you like</string>
+    <string name="more_of_what_you_like_title_subtitle">Hear a bit of everything you love</string>
+
+    <string name="daily_lift_title">Daily Lift"</string>
+    <string name="daily_lift_subtitle">Get in the zone with these current jams!</string>
+
+    <string name="happy_pop_title">Happy Pop"</string>
+    <string name="happy_pop_subtitle">Embrace those happy vibes!</string>
+
+    <string name="young_wild_title">Young, Wild &amp; Free</string>
+    <string name="young_wild_subtitle">Living young, wild and free!</string>
+
+    <string name="mood_booster_title">Mood Booster</string>
+    <string name="mood_booster_subtitle">Get happy with today\'s dose of songs!</string>
+
+    <string name="time_capsule_title">Your Time Capsule</string>
+    <string name="time_capsule_subtitle">We made you a personalized playlist with song to take you back in time!</string>
+
+    <string name="repeat_title">On Repeat</string>
+    <string name="repeat_subtitle">Songs you love right now</string>
+
+    <string name="repeat_rewind_title">Repeat Rewind</string>
+    <string name="repeat_rewind_subtitle">Your past favourites</string>
+
+    <string name="liked_songs_title">Liked Songs</string>
+
+    <string name="release_radar_title">Release Radar</string>
+    <string name="release_radar_subtitle">Catch all the latest from artists you follow.</string>
+
+    <string name="daily_mix_1_title">Daily Mix 1</string>
+    <string name="daily_mix_1_subtitle">Ariana Grande, Billie Eilish, Selena Gomez and more</string>
+
+    <string name="daily_mix_2_title">Daily Mix 2</string>
+    <string name="daily_mix_2_subtitle">Jason Derulo, Anne Marie and more</string>
+
+    <string name="daily_mix_3_title">Daily Mix 3</string>
+    <string name="daily_mix_3_subtitle">Kygo, Rompasso, Sam Feldt and more</string>
+
+    <string name="search">Search</string>
+    <string name="top_genres">Your top genres</string>
+    <string name="browse_all">Browse all</string>
+
+
+    <string name="pop">Pop</string>
+    <string name="rnb">RnB</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="kpop">K-Pop</string>
+
+    <string name="genre_1">Podcasts</string>
+    <string name="genre_2">Made for you</string>
+    <string name="genre_3">Charts</string>
+    <string name="genre_4">New Releases</string>
+    <string name="genre_5">Discover</string>
+    <string name="genre_6">Concerts</string>
+    <string name="genre_7">At home</string>
+    <string name="genre_8">Mood</string>
+
+
+    <string name="search_hint">Artists, songs, or podcasts</string>
+    <string name="library_hint">Find in playlists</string>
+
+    <string name="music">Music</string>
+    <string name="podcast">Podcast</string>
+
+    <string name="playlists">Playlists</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+
+    <string name="create_playlist">Create a playlist</string>
+
+    <string name="favourite_songs_count">7 songs</string>
+
+    <string name="filters">Filters</string>
+
+
+
+
+
+
+</resources>
